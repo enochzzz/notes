@@ -22,12 +22,9 @@
 16. [【JS】数组乱序](https://github.com/Enochzzz/notes/issues/17)
 17. [【JS】数组排序](https://github.com/Enochzzz/notes/issues/18)
 
-------
+
 ### es6+系列
 ---
-
-------
 ### 好文收集
+---
 1. [好文收集](https://github.com/Enochzzz/notes/issues/11)
-
-------
