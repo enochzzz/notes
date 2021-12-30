@@ -25,12 +25,13 @@ module.exports = {
         }]
       }
     ],
-    sidebar: [{
-        title: '欢迎学习',
+    sidebar: [
+      {
+        title: '欢迎交流',
         path: '/',
         collapsable: false, // 不折叠
         children: [{
-          title: "学前必读",
+          title: "小声叨叨",
           path: "/"
         }]
       },
