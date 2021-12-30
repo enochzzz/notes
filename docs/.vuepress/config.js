@@ -35,7 +35,7 @@ module.exports = {
       {
         title: "es6+",
         path: '/notes/es6/letAndConst',
-        collapsable: false, // 不折叠
+        collapsable: true, // 不折叠
         children: [{
             title: "let与const",
             path: "/notes/es6/letAndConst"
@@ -49,7 +49,7 @@ module.exports = {
       {
         title: "js高程4",
         path: '/notes/jsAdvancedProgramming/javaScriptInHtml',
-        collapsable: false, // 不折叠
+        collapsable: true, // 不折叠
         children: [{
             title: "第二章 HTML中的JavaScript",
             path: "/notes/jsAdvancedProgramming/javaScriptInHtml"
@@ -59,9 +59,17 @@ module.exports = {
             path: "/notes/jsAdvancedProgramming/languageFoundation"
           }
         ],
+      },
+      {
+        title: "浏览器",
+        path: '/notes/browser/browserCache',
+        collapsable: true, // 不折叠
+        children: [{
+            title: "第二章 HTML中的JavaScript",
+            path: "/notes/browser/browserCache"
+          }
+        ],
       }
     ]
   }
 }
-
-// 2. 【es6+】 解构赋值
