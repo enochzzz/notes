@@ -8,6 +8,9 @@ module.exports = {
     }
   },
   description: 'Enoch的学习笔记',
+  head: [
+    ['link', { rel: 'icon', href: '/logo.png' }]
+  ],
   themeConfig: {
     subSidebar: 'auto',
     nav: [{
@@ -17,10 +20,9 @@ module.exports = {
       {
         text: 'Enoch的学习笔记',
         items: [{
-            text: 'Github',
-            link: 'https://github.com/Enochzzz'
-          }
-        ]
+          text: 'Github',
+          link: 'https://github.com/Enochzzz'
+        }]
       }
     ],
     sidebar: [{
@@ -65,10 +67,9 @@ module.exports = {
         path: '/notes/browser/browserCache',
         collapsable: true, // 不折叠
         children: [{
-            title: "第二章 HTML中的JavaScript",
-            path: "/notes/browser/browserCache"
-          }
-        ],
+          title: "第二章 HTML中的JavaScript",
+          path: "/notes/browser/browserCache"
+        }],
       }
     ]
   }
