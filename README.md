@@ -37,7 +37,7 @@
 
 ### 浏览器
 ---
-1. [1. 【浏览器】浏览器缓存、强缓存、协商缓存](https://github.com/Enochzzz/notes/issues/11)
+1. [1. 【浏览器】浏览器缓存、强缓存、协商缓存](https://github.com/Enochzzz/notes/blob/main/src/%E6%B5%8F%E8%A7%88%E5%99%A8/1.%20%E3%80%90%E6%B5%8F%E8%A7%88%E5%99%A8%E3%80%91%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BC%93%E5%AD%98%E3%80%81%E5%BC%BA%E7%BC%93%E5%AD%98%E3%80%81%E5%8D%8F%E5%95%86%E7%BC%93%E5%AD%98.md)
 
 
 ### 好文收集
