@@ -46,6 +46,10 @@ module.exports = {
           {
             title: "解构赋值",
             path: "/notes/es6/jiegou"
+          },
+          {
+            title: "模板字符串",
+            path: "/notes/es6/stringExtens"
           }
         ],
       },
